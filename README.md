@@ -1,4 +1,4 @@
-# Createed single page React App
+# Single Page React App
 
 
 
